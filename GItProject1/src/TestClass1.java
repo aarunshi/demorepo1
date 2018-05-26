@@ -10,6 +10,6 @@ System.out.println("Change1--2");
 }
 public void funct2()
 {
-	System.out.println();
+	System.out.println("hiii");
 }
 }
